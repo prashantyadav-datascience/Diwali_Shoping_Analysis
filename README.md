@@ -257,11 +257,6 @@ Future versions of this project can include:
 
 B.Tech | Data Science & Analytics
 
-### 🔗 Connect With Me
-
-* GitHub: `YOUR_GITHUB_PROFILE_URL`
-* LinkedIn: `YOUR_LINKEDIN_PROFILE_URL`
-
 ---
 
 ## ⭐ Conclusion
